@@ -6,5 +6,8 @@ Put your name in the Team Section and comment
 
 ## Team
 
+Team No. 1 
+Group Member: Zuxuan Huai
+
 
 ## Comments
